@@ -1,7 +1,7 @@
 # ML
 Learning ML
 
-To create environment
+To create environment:
   conda create --prefix ./env packages(pandas, numpy)
 
 To activate environment:
